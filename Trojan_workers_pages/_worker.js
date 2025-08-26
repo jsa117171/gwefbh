@@ -1,6 +1,7 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
- 
+
+platform: 'node
 let Pswd = "a117171";
 const proxyIPs = [""];
 let cn_hostnames = [''];
