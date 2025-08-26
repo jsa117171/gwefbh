@@ -1,3 +1,3 @@
 name = "t20250807"
 compatibility_date = "2025-08-07"
-pages_build_output_dir = "/Trojan_workers_pages"
+pages_build_output_dir = "./Trojan_workers_pages"
