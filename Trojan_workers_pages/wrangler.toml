@@ -1,3 +1,4 @@
 name = "t20250807"
 compatibility_date = "2025-08-07"
 pages_build_output_dir = "./"
+compatibility_flags = 'nodejs_compat'
